@@ -19,7 +19,7 @@
         <property name="driver" value="oracle.jdbc.driver.OracleDriver"/>       
         <property name="driverUrl" value="jdbc:oracle:thin:@localhost:1521:orcl"/>        
         <property name="user" value="Web"/>     
-        <property name="password" value="cq08010907"/> 
+        <property name="password" value="123456"/> 
         <property name="alias" value="ios_Proxool"/>   
         <!-- 最小保持的空闲连接数，连接池中可用的连接数量.如果当前的连接池中的连接少于这个数值.新的连接将被建立 默认为2 -->            
         <property name="prototypeCount" value="5"/>     
